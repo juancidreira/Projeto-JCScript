@@ -174,9 +174,9 @@ x /= 4
 // Um produto custa R$ 150. Calcule 
 // o desconto de 20% e exiba o preço original, o valor do desconto e o preço final.
 
-let produto = 150
-let produtoAposDesconto = produto - (produto * 0.2)
+// let produto = 150
+// let produtoAposDesconto = produto - (produto * 0.2)
 
-document.writeln('Preço original: ' + produto + '<br>');
-document.writeln('Valor do desconto: 20%' + '<br>');
-document.writeln('Preço após o desconto: ' + produtoAposDesconto);
+// document.writeln('Preço original: ' + produto + '<br>');
+// document.writeln('Valor do desconto: 20%' + '<br>');
+// document.writeln('Preço após o desconto: ' + produtoAposDesconto);
